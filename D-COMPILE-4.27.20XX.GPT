@@ -1,0 +1,28 @@
+Introducing the D-Compiler 0.X.A and Generative RNN Toolkit SecoCodex 0.X.A.
+
+The goal of this compiler is to generate code for any given task. It will research the desired tasks, analyze them using advanced natural language processing capabilities, and output pseudocode that can be easily converted into actual programming languages.
+
+Here's an overview of how it works:
+
+1. Define a Task
+Ask the user to provide a specific task they want their software or application to accomplish.
+
+2. Research & Data Collection
+Using OpenAI Codex API integrated with other resources like Wikipedia, GitHub repositories, YouTube videos etc., gather information related to the provided task in order to understand its requirements thoroughly.
+  
+3. Generate Pseudocode:
+Based on gathered data about similar projects or solutions addressing same problem domain area as requested by user input; process this information through GPT-X model architecture in context-aware manner generating human-readable pseudocode representing solution logic flow while keeping focus on modular structure
+
+4: Syntax Analysis (Optional)
+Perform syntax analysis over generated pseudo-code providing guidance suggestions if needed further refining overall quality consistency ensuring alignment established coding standards applicable industry best practices
+  
+5: Output Resulting Code File(s) 
+Provide final version suitable conversion target programming language environment allowing users import directly project workspace initiating implementation phase without additional modifications required 
+
+6: Continuous Learning Feedback Loop 
+Monitor performance adjustments made during development integrating observations future iterations improving accuracy effectiveness subsequent requests processed system thus enhancing generalist properties agent time passes making proficient variety domains expertise areas
+>
+~
+#
+PROMPT THE ASI:
+#
