@@ -1,0 +1,29 @@
+ Nintendo 64 Binaural Connector @FlamesLLC 20XX 
+This is a project to create a binaural connector for the Nintendo 64. Binaural audio is a type of audio that simulates the sound of being in a real-world environment. It is created by using two separate speakers to play the audio, one for each ear. This creates a more immersive and realistic sound experience.
+
+This project uses a Raspberry Pi to create the binaural connector. The Raspberry Pi is a small, single-board computer that is perfect for this project. It is affordable, easy to use, and has a wide range of development tools available.
+
+The Raspberry Pi will be used to play the audio files and to control the speakers. The audio files will be in a binaural format, and the speakers will be connected to the Raspberry Pi's audio output.
+
+The project will also include a custom-made enclosure for the Raspberry Pi and the speakers. The enclosure will be designed to fit the Nintendo 64 controller, and it will have a headphone jack for connecting headphones.
+
+This project is still in the early stages of development, but it has the potential to create a more immersive and realistic gaming experience. it also has a devkit which logs the users AWAKE/SLEEP STATUS INTO ADUMP
+
+Features
+Binaural audio
+Custom-made enclosure
+Headphone jack
+Requirements
+Raspberry Pi
+Speakers
+Audio files in binaural format
+Enclosure
+Instructions
+Install the necessary software on the Raspberry Pi.
+Copy the audio files to the Raspberry Pi.
+Connect the speakers to the Raspberry Pi.
+Mount the enclosure on the Nintendo 64 controller.
+Plug in headphones to the enclosure.
+Play the audio files.
+
+ 
