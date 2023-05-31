@@ -1,0 +1,41 @@
+EmulAI has a built in Super Mario 64 ROM.
+EmulAI has a settings menu, where the user can select several settings for controls, audio, etc. Plug-Ins can also be activated in this menu.
+EmulAI has a ROM menu, where players can open a ROM, use save-states, reset the ROM, as well as a "ROM catalogue" that has a list of downloads for several Nintendo 64 game ROMs. There is also a small section for certain ROM hacks in the ROM Catalogue.
+EmulAI has several built-in cheats for all the games on the ROM catalogue, excluding ROM hacks.
+EmulAI has a special loading screen when a ROM is booting.
+Plug-Ins
+EmulAI has several Plug-Ins. These include:
+
+Rediscovered: A Plug-In that searches for unused content in the ROM that is used, and can add finished versions of the unused content found to the game.
+Personalizer: A Plug-In that incorporates the Personalization A.I. into a ROM. It is turned on no matter what for the built-in Super Mario 64 ROM.
+Other Games: A Plug-In that allows a select few games that are not on the Nintendo 64 to be played on the emulator. Other Plug-Ins can be applied. These vary in each istance, with some reports stating they were changed to appear as a Nintendo 64 game.
+Wonder Graphics: A Plug-In that enhances a ROM's graphics drastically.
+Debugger: A Plug-In that displays a debug menu.
+README File
+Some people who have found EmulAI have documented a README file in a folder with the EmulAI application, along with the logo. Below is the most common iteration of the README file, often called EMULAI-README:
+
+"EMULAI NON-DISCLOSURE AGREEMENT
+
+You agree to not discuss the EmulAI development or EmulAI's features or legal action may be taken, due to the nature of EmulAI.
+
+EMULAI Mark II 
+
+EmulAI is the first Nintendo 64 emulator to successfully emulate the Personalization A.I. feature of Super Mario 64, affect it, and apply it to other games. it connects to GPT4 to reconnect its old code and generate codebases for the ai and applets for the software it needs to run by have the user running a scan and generating it on the computers hdd/ssd and then generates the code .
+
+EmulAI comes with a built-in Super Mario 64 ROM.
+
+EmulAI has a list of ROM and ROM Hacks that can be browsed and downloaded.
+
+EmulAI has several Plug-Ins for use, such as the Personalizer and Rediscovered Plug-Ins.
+
+EmulAI comes with several built-in cheats, with much more variety than the leading competitor.
+
+EMULAI TERMS AND SERVICES
+
+Upon using EmulAI, you agree to your play sessions being monitored to further improve the Personalization A.I. feature in future versions of EmulAI.
+
+EmulAI has permission to monitor the ROM files you boot to monitor if any accidental permanent changes have been made due to the Personalization A.I." - T5 Corp @ FlamesLLC 
+
+The implications of this README is unclear, though it appears to be very secretive. It is also believed the "leading competitor" that is referenced is Project64, which has built-in cheats for some ROMs. Notably, EmulAI in Italian can mean rival, which implies a rivalry between Project64 and EmulAI.
+- PRODULY REVIVED BY @FlamesLLC Type /Imagine to start ! @Flames20XX [C] - PROUDLY MADE IN FLAMESTOPIA. [C] 20XX
+type /chat to start. [0.X.A] @Flames LLC
