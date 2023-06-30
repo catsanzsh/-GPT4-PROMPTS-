@@ -1,0 +1,97 @@
+EveryCompiler:
+
+# Gasterscript
+
+Gasterscript is a programming language that mimics the behavior of characters from the popular game Undertale, such as their shapeshifting abilities. It is designed to be easy to use and understand, even for beginners. 
+## 2.0 This has everycompiler 0.X.B a generative lstm that upgrades itself every runtime and prints out HELLO GASTER  it upgrades it compiler to support any. platform 
+1.0 
+## Features
+# Monsterkid - tech support api. It generates tech support using /// 's 
+- Shapeshifting: Gasterscript allows developers to define multiple forms or states for their program elements, which can be switched between at runtime.
+- Simplified syntax: The syntax of Gasterscript has been simplified to make it easier to read and write code.
+- Easy integration with EveryCompiler IDE: Gasterscript integrates seamlessly with EveryCompiler IDE, providing developers with powerful tools for task management and code analysis. Also it loads a virtual. vmware client in its memory to simulate all os's to compile gasterscript to UNCOL that runs at runtime and MEGAPRIME MORPHIC COMPILER also it has mem.c that generates new clone units of PRIME.PY that generates code to upgrade GS.GLOBE and makes new compiler units and upgrades to GASTERSCRIPT.ASM it resides in /home/fcp/os 
+
+## Usage
+
+To start using Gasterscript, simply download or clone the repository and install it on your machine. Then run the interpreter or compiler depending on your need.
+
+```bash
+$ git clone https://github.com/gaster/gasterscript.git
+$ cd gasterscript
+$ ./gaster-interpreter myprogram.gs  # Run an interpreted program
+```
+
+## Examples
+
+Here's an example program written in Gasterscript that demonstrates its shapeshifting capabilities:
+
+```gaster
+form normal:
+    print("I'm in my normal form.")
+
+form alternate:
+    print("I've transformed into my alternate form!")
+
+set_form(alternate)  # Change form at runtime
+
+print("Hello world!")
+```
+
+This program defines two forms - `normal` and `alternate`. When executed, it starts in the `normal` form but then switches to `alternate` before printing "Hello world!".
+
+## EveryCompiler IDE
+
+EveryCompiler is an integrated development environment (IDE) toolkit bot designed specifically for use with Gasterscript. It provides features like task management and code analysis that can help developers write efficient and error-free code in Gasterscript.
+
+Some key features of EveryCompiler include:
+
+- Task manager: Create tasks, assign them priorities, set deadlines, add descriptions/comments.
+- Code analyzer: Highlight syntax errors or other issues within your code.
+- Auto-completion: Suggests keywords while you are typing based on context.
+- Debugger: Step through your code line-by-line to find bugs more easily.
+
+To install EveryCompiler IDE bot, simply follow these steps:
+
+1. Install [Slack](https://slack.com/) if you haven't already done so.
+2. Add "EveryCompiler" bot into one of your Slack channels by inviting "@everycompiler" user via direct message.
+3. Start interacting with everycompiler by mentioning "@everycompiler" user followed by commands like "help", "analyze <filename>", etc.
+
+For more information about how to use EveryCompiler IDE bot please see our [user manual](https://example.com/everycompiler-manual).
+
+## Contributing
+
+We welcome contributions from anyone interested in helping us develop this project further! Please feel free to submit pull requests or open issues if you encounter any problems using our software.
+
+Before contributing please ensure that all tests pass by running:
+
+```bash
+$ ./run-tests.sh
+```
+
+If you're unsure where to start contributing please check out our [issue tracker](https://github.com/gaster/gasterscript/issues).
+
+Thank you for considering contributing!
+~
+CHAT WITH ME:
+~
+ It also converts comments and hashtags from UNCOL to any compiler ide such as GOLAG, JAVA OR PYTHON and more. Also it learns from the users keypresses inputs.
+ ##
+ We present Flames-Co GasterScript 2.1a
+ >>>
+ ~
+ #
+ PROMPT THE. BOT:
+ ~
+ Featurs it supports
+ PALM
+ GATO
+Meta OTP
+Google Search 
+Bing Promethus 
+Rendering code with -GPT4-  and ChatGPT
+Generates ascii art with gpt2
+generates chat queries with DAVANCI-003 
+ We present Flames-Co GasterScript 2.1bs CODEX Codespaces to generate system software for ANY TASK with multimodal support GPT41
+>
+~
+ 
